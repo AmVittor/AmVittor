@@ -38,11 +38,10 @@
 📚 Atualmente cursando ADS na faculdade BandTec <br>
 ❤️ Apaixonado por cores, programação, criação e design <br>
 🔮 Pretendo me tornar um dev front-end e Ux/Ui designer <br>
-🎃 Mesmo sendo brasileiro, amo o halloween
+🎃 Mesmo sendo brasileiro, amo o halloween <br> <br> <br>
  
  
- 
-
+  <img height="70" src="https://media3.giphy.com/media/eK12uCsrAh4wmTXejp/giphy.gif?cid=ecf05e47yopswrtfv6dkloohin8mv8i9hxknf6nqx7uc7as8&rid=giphy.gif&ct=g">
 
 
 
