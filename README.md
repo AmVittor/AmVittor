@@ -20,10 +20,10 @@
 <a href="www.behance.net/vitoram" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg"></a> 
   <a href="https://steamcommunity.com/id/ilikeshower" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
 
-  </div>
+
  ![Snake animation](https://github.com/AmVittor/AmVittor/blob/output/github-contribution-grid-snake.svg)
 
-
+  </div>
 
 
 
