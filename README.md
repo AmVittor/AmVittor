@@ -16,7 +16,7 @@
 </div>
  
   <div>
-   <a  href="www.linkedin.com/in/vitor-de-andrade-moreira-0a68441a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="160" height="40"></a> 
+   <a  href="https://www.linkedin.com/in/vitor-de-andrade-moreira-0a68441a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="160" height="40"></a> 
 <a href="https://www.behance.net/vitoram" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" width="160" height="40"></a> 
 
 
