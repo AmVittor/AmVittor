@@ -1,10 +1,13 @@
 
-## Oi eu sou o Vitor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Oi eu sou o Vitor
+
  <div>
   <a href="https://github.com/AmVittor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmVittor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-    
+  <div align="right">
+   
+
+   </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -23,7 +26,22 @@
  ![Snake animation](https://github.com/AmVittor/AmVittor/blob/output/github-contribution-grid-snake.svg)
 
   </div>
-
+ 
+ ## Sobre mim 🇧🇷
+ 
+ <div style="float-left">
+    <img align="right" height="320" src="https://share-cdn.picrew.me/shareImg/org/202109/1242662_akjg3B4U.png">
+ 
+</div>
+👋 Me chamo Vitor Andrade, sou de São Paulo, homem e tenho 20 anos <br>
+🎨 Estudo sobre arte e design desde meus 14 anos <br>
+📚 Atualmente cursando ADS na faculdade BandTec <br>
+❤️ Apaixonado por cores, programação, criação e design <br>
+🔮 Pretendo me tornar um dev front-end e Ux/Ui designer <br>
+🎃 Mesmo sendo brasileiro, amo o halloween
+ 
+ 
+ 
 
 
 
