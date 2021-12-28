@@ -28,11 +28,10 @@
     
  
 </div>
-Me chamo Vitor Andrade, sou de São Paulo, homem e tenho 20 anos <br>
+Me chamo Vitor Andrade, sou de São Paulo e tenho 20 anos <br>
 Estudo sobre arte, design e front-end desde meus 14 anos <br>
-Atualmente cursando ADS na faculdade BandTec <br>
-Apaixonado por cores, programação, criação e design <br>
-Pretendo me tornar um dev front-end e Ux/Ui designer <br>
+Atualmente cursando ADS na faculdade SpTech<br>
+Atualmente sou estágiario front-end na TradeMap<br>
 <br> <br>
  
  
