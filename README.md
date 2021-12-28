@@ -25,7 +25,7 @@
  ## Sobre mim 🇧🇷
  
  <div style="float-left">
-    <img align="right" height="320" src="https://share-cdn.picrew.me/shareImg/org/202109/1242662_akjg3B4U.png">
+    
  
 </div>
 Me chamo Vitor Andrade, sou de São Paulo, homem e tenho 20 anos <br>
