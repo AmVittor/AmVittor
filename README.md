@@ -30,7 +30,7 @@
 </div>
 Me chamo Vitor Andrade, sou de São Paulo e tenho 20 anos <br>
 Estudo sobre arte, design e front-end desde meus 14 anos <br>
-Atualmente cursando ADS na faculdade SpTech e estágiario front-end na Valemobi<br>
+Atualmente cursando ADS na faculdade SpTech e sou estágiario dev B2B na Valemobi<br>
 
 <br> <br>
  
