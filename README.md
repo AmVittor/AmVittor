@@ -22,8 +22,6 @@
 
   </div>
  
- ## Sobre mim 🇧🇷
- 
  <div style="float-left">
     
  
