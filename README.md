@@ -3,7 +3,7 @@
 #### Brazilian 22 years old, software developer
 
 <div style="display: inline_block"><br>
-  <h2>Skills</h2>
+  <h2>Skills | Habilidades</h2>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -18,6 +18,7 @@
 </div>
  
   <div>
+  <h3>  Entre em contato! | Contact me!</h3>
    <a  href="https://www.linkedin.com/in/vitor-de-andrade-moreira-0a68441a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="160" height="40"></a> 
 <a href="https://www.behance.net/vitoram" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" width="160" height="40"></a> 
 
