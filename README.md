@@ -38,11 +38,7 @@
   </tr>
 </table>
 
-<h3>Entre em contato!</h3>
+<h3>Para saber mais/entrar em contato fique a vontade em me chamar</h3>
 <a href="https://www.linkedin.com/in/vitor-de-andrade-moreira-0a68441a7/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="40" />
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" height="50" />
 </a>
-
-<br/>
-
-<img height="70" src="https://media3.giphy.com/media/eK12uCsrAh4wmTXejp/giphy.gif?cid=ecf05e47yopswrtfv6dkloohin8mv8i9hxknf6nqx7uc7as8&rid=giphy.gif&ct=g">
