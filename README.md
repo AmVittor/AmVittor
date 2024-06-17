@@ -1,37 +1,48 @@
+## Olá, eu sou o Vitor
+#### Brasileiro, 22 anos, desenvolvedor de software
 
-## Hello! I am Vitor
-#### Brazilian 22 years old, software developer
+<p>Sou desenvolvedor de software com ampla experiência em Java e Kotlin, utilizando o framework Spring. Tenho um histórico significativo no desenvolvimento de microsserviços, bem como na implementação de soluções de web crawling. Além disso, possuo experiência em automação de testes unitários e de integração, e conhecimento em bancos de dados relacionais (PostgreSQL) e não relacionais (MongoDB). Utilizo a metodologia ágil em meu dia a dia além de desenvolver visando a escalabilidade.</p>
 
-<div style="display: inline_block"><br>
-  <h2>Design</h2>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  
- 
- </br>
-</div>
-<div style="display: inline_block"><br>
-  <h2>Development | Desenvolvimento </h2>
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-  </div>
- 
-  <div>
-  <h3>  Contatos! | Contacts!</h3>
-   <a  href="https://www.linkedin.com/in/vitor-de-andrade-moreira-0a68441a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="160" height="40"></a> 
-<a href="https://www.behance.net/vitoram" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" width="160" height="40"></a> 
+<h2>Principais tecnologias</h2>
+<p>Essas são as tecnologias e linguagens que mais utilizo e nas quais tenho conhecimento. Além do conhecimento teórico, possuo experiência prática em modelos de arquitetura, como microsserviços. Também aplico constantemente os princípios do SOLID e tenho experiência com TDD (Desenvolvimento Orientado por Testes).</p>
+<table>
+  <tr>
+    <td><img height="140" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" /></td>
+    <td><img height="130" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /></td>
+    <td><img height="130" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></td>
+    <td><img height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></td>
+    <td><img height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /></td>
+  </tr>
+</table>
 
-  </div>
-      </br>
- <div style="float-left">
-    
- 
-</div>
+<h2>Também possuo experiência com</h2>
+<table>
+  <tr>
+    <td><img height="160" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" /></td>
+    <td><img height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" /></td>
+    <td><img height="160" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" /></td>
+    <td><img height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" /></td>
+    <td><img height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /></td>
+  </tr>
+</table>
 
-  <img height="70" src="https://media3.giphy.com/media/eK12uCsrAh4wmTXejp/giphy.gif?cid=ecf05e47yopswrtfv6dkloohin8mv8i9hxknf6nqx7uc7as8&rid=giphy.gif&ct=g">
+<h2>Documentação</h2>
+<p>Utilizo ferramentas para versionamento de código, documentação e controle de demandas. Descrevo detalhadamente as soluções, incluindo evidências de funcionalidade.</p>
+<table>
+  <tr>
+    <td><img height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" /></td>
+    <td><img height="160" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" /></td>
+    <td><img height="160" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" /></td>
+    <td><img height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" /></td>
+    <td><img height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" /></td>
+  </tr>
+</table>
+
+<h3>Entre em contato!</h3>
+<a href="https://www.linkedin.com/in/vitor-de-andrade-moreira-0a68441a7/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="160" height="40" />
+</a>
+
+<br/>
+
+<img height="70" src="https://media3.giphy.com/media/eK12uCsrAh4wmTXejp/giphy.gif?cid=ecf05e47yopswrtfv6dkloohin8mv8i9hxknf6nqx7uc7as8&rid=giphy.gif&ct=g">
