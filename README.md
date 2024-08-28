@@ -1,5 +1,5 @@
 ## Olá, eu sou o Vitor
-#### Brasileiro, 22 anos, desenvolvedor de software
+#### Brasileiro desenvolvedor de software
 
 <p>Sou desenvolvedor de software com ampla experiência em Java e Kotlin, utilizando o framework Spring. Tenho um histórico significativo no desenvolvimento de microsserviços, bem como na implementação de soluções de web crawling. Além disso, possuo experiência em automação de testes unitários e de integração, e conhecimento em bancos de dados relacionais (PostgreSQL) e não relacionais (MongoDB). Utilizo a metodologia ágil em meu dia a dia além de desenvolver visando a escalabilidade.</p>
 
