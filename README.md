@@ -1,14 +1,12 @@
 ## Olá, eu sou o Vitor
 #### Brasileiro desenvolvedor de software
 
-<p>Sou desenvolvedor de software com ampla experiência em Java e Kotlin, utilizando o framework Spring. Tenho um histórico significativo no desenvolvimento de microsserviços, bem como na implementação de soluções de web crawling. Além disso, possuo experiência em automação de testes unitários e de integração, e conhecimento em bancos de dados relacionais (PostgreSQL) e não relacionais (MongoDB). Utilizo a metodologia ágil em meu dia a dia além de desenvolver visando a escalabilidade.</p>
-
 <h2>Principais tecnologias</h2>
 <p>Essas são as tecnologias e linguagens que mais utilizo e nas quais tenho conhecimento. Além do conhecimento teórico, possuo experiência prática em modelos de arquitetura, como microsserviços. Também aplico constantemente os princípios do SOLID e tenho experiência com TDD (Desenvolvimento Orientado por Testes).</p>
 <table>
   <tr>
-    <td><img height="140" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" /></td>
     <td><img height="130" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /></td>
+    <td><img height="140" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" /></td>
     <td><img height="130" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></td>
     <td><img height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></td>
     <td><img height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /></td>
