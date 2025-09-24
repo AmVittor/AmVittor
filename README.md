@@ -16,7 +16,6 @@
 <h2>Também possuo experiência com</h2>
 <table>
   <tr>
-    <td><img height="160" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" /></td>
     <td><img height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" /></td>
     <td><img height="160" width="160" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" /></td>
     <td><img height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" /></td>
